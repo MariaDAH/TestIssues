@@ -1,0 +1,5 @@
+c:\users\mixiña\documents\visual studio 2013\Projects\IssuesTracker\bin\Debug\IssuesTracker.exe.config
+c:\users\mixiña\documents\visual studio 2013\Projects\IssuesTracker\bin\Debug\IssuesTracker.exe
+c:\users\mixiña\documents\visual studio 2013\Projects\IssuesTracker\bin\Debug\IssuesTracker.pdb
+c:\users\mixiña\documents\visual studio 2013\Projects\IssuesTracker\obj\Debug\IssuesTracker.exe
+c:\users\mixiña\documents\visual studio 2013\Projects\IssuesTracker\obj\Debug\IssuesTracker.pdb
